@@ -2,7 +2,7 @@
   "name": "css-in-js-typescript-common",
   "version": "0.0.0",
   "description": "Useful typescript Interfaces and types for css-in-js frameworks. Edit",
-  "main": "index.js",
+  "typings": "./typings/index.d.ts",
   "repository": "https://github.com/luke-john/css-in-js-typescript-common.git",
   "author": "Luke John <email@lukejohn.me>",
   "license": "MIT"
